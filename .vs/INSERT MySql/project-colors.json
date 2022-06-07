@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb38c395-1f03-465a-9af4-1c90f5b50577": {
+      "ProjectGuid": "bb38c395-1f03-465a-9af4-1c90f5b50577",
+      "DisplayName": "INSERT MySql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
